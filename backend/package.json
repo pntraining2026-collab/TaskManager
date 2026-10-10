@@ -3,9 +3,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
-    "build": "npm run build",
-    "test": "npm test"
+    "dev": "nodemon server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
